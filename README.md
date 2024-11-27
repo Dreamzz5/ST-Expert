@@ -53,7 +53,7 @@ If you use ST-Expert in your research, please cite our paper:
 @article{wang2024robust,
   title={Robust Traffic Forecasting  against Spatial Shift over Years},
   author={Wang, Hongjun and Chen, Jiyuan and Pan, Tong and Dong, Zheng and Zhang, Lingyu and Jiang, Renhe and Song, Xuan},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={https://arxiv.org/abs/2410.00373},
   year={2024}
 }
 ```
