@@ -1,4 +1,4 @@
-# Robust Traffic Forecasting  against Spatial Shift over Years
+# Robust Traffic Forecasting with Experts for Spatiotemporal  Shifts over Years
 
 This repository contains demo code for training and evaluating the GWNET model on the PEMS08 dataset, with a focus on testing its performance on shifted data.
 
@@ -45,16 +45,5 @@ python experiments/gwnet/main.py --device cuda:0 --dataset PEMS08 --years 2016 -
 
 This code is developed based on LargeST, an easy-to-use and powerful open-source ST-GNNs training framework.
 
-## Citation
 
-If you use ST-Expert in your research, please cite our paper:
-
-```bibtex
-@article{wang2024robust,
-  title={Robust Traffic Forecasting  against Spatial Shift over Years},
-  author={Wang, Hongjun and Chen, Jiyuan and Pan, Tong and Dong, Zheng and Zhang, Lingyu and Jiang, Renhe and Song, Xuan},
-  journal={https://arxiv.org/abs/2410.00373},
-  year={2024}
-}
-```
 
