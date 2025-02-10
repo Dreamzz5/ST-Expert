@@ -1,4 +1,4 @@
-# Mixture of Experts Spatiotemporal Model for Out-of-Distribution Forecasting over Years
+# Mixture of Experts for Out-of-Distribution Spatiotemporal Forecasting over Years
 
 This repository contains demo code for training and evaluating the GWNET model on the PEMS08 dataset, with a focus on testing its performance on shifted data.
 
