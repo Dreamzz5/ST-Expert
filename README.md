@@ -8,12 +8,6 @@ The code demonstrates how to:
 1. Train GWNET on the PEMS08-16 dataset
 2. Test the trained model on the shifted dataset PEMS08-17
 
-## Requirements
-
-- Python 3.x
-- CUDA-enabled GPU (for faster training)
-- Required Python packages (list them here, e.g., PyTorch, NumPy, etc.)
-
 ## Usage
 
 ### Training
